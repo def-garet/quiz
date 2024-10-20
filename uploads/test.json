@@ -1,0 +1,72 @@
+[
+  {
+    "question": "According to Johnson's Behavioral System Model Theory, which two major systems does a person have?",
+    "options": [
+      "Biological and Psychological",
+      "Biological and Behavioral",
+      "Social and Biological",
+      "Social and Psychological"
+    ],
+    "answer": "Biological and Behavioral"
+  },
+  {
+    "question": "In Johnson's model, what is the primary goal of nursing?",
+    "options": [
+      "To focus on the biological system",
+      "To maintain balance in the behavioral system",
+      "To correct impaired behaviors",
+      "To provide intellectual skills"
+    ],
+    "answer": "To maintain balance in the behavioral system"
+  },
+  {
+    "question": "According to Johnson, how are cultural influences considered in an individual's behavior?",
+    "options": [
+      "Not considered",
+      "Considered as secondary factors",
+      "Viewed as profound",
+      "Ignored"
+    ],
+    "answer": "Viewed as profound"
+  },
+  {
+    "question": "What is the purpose of the Eliminative Subsystem in Johnson's Behavioral System Model Theory?",
+    "options": [
+      "To focus on the biological system",
+      "To maintain balance in the behavioral system",
+      "To relate to behaviors surrounding the secretion of waste products from the body",
+      "To provide intellectual skills"
+    ],
+    "answer": "To relate to behaviors surrounding the secretion of waste products from the body"
+  },
+  {
+    "question": "What is the main purpose of the Sexual Subsystem in Johnson's Behavioral System Model Theory?",
+    "options": [
+      "To focus on the biological system",
+      "To maintain balance in the behavioral system",
+      "To relate to behaviors associated with a specific gender-based identity for the purpose of ensuring pleasure/procreation and knowledge and behavior being congruent with biological sex",
+      "To provide intellectual skills"
+    ],
+    "answer": "To relate to behaviors associated with a specific gender-based identity for the purpose of ensuring pleasure/procreation and knowledge and behavior being congruent with biological sex"
+  },
+  {
+    "question": "In Johnson's model, which subsystem relates to behaviors concerned with defense and self-preservation?",
+    "options": [
+      "Achievement Subsystem",
+      "Aggressive Protective Subsystem",
+      "Eliminative Subsystem",
+      "Sexual Subsystem"
+    ],
+    "answer": "Aggressive Protective Subsystem"
+  },
+  {
+    "question": "What does the Achievement Subsystem in Johnson's model include?",
+    "options": [
+      "Biological system focus",
+      "Behavioral system balance maintenance",
+      "Problem-solving activity and knowledge of personal strengths and weaknesses",
+      "Behaviors that attempt to control the environment"
+    ],
+    "answer": "Problem-solving activity and knowledge of personal strengths and weaknesses"
+  }
+]
